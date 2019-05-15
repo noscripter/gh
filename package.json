@@ -49,7 +49,7 @@
     "insight": "^0.7.0",
     "moment": "^2.10.6",
     "nopt": "^3.0.2",
-    "open": "^0.0.5",
+    "open": "^6.0.0",
     "truncate": "^2.0.0",
     "update-notifier": "^0.5.0",
     "userhome": "^1.0.0",
